@@ -1,0 +1,24 @@
+h1 {
+    font-weight: 600px;
+}
+
+.facts {
+    border: solid;
+    border-color: coral;
+}
+
+body {
+    background-image: url("hufflepuff-logo-yellow-grunge-g3jltz0aunidxb0f (2).jpg");
+    font-family: 'Roboto Flex', sans-serif;
+    font-weight: 300px;
+    margin: auto;
+    width: 50%;
+}
+
+main, header, footer {
+    background-color: white;
+}
+
+.center {
+    text-align: center;
+}
