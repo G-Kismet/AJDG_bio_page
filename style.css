@@ -27,3 +27,9 @@ main, header, footer {
 .center {
     text-align: center;
 }
+
+.media {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
