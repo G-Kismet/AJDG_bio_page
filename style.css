@@ -2,6 +2,11 @@ h1 {
     font-weight: 600px;
 }
 
+.headshot {
+    border: double;
+    border-color: rgb(127, 216, 249);
+}
+
 .facts {
     border: solid;
     border-color: rgb(127, 216, 249);
@@ -9,8 +14,8 @@ h1 {
 
 body {
     background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701199044.jpg");
-    font-family: 'Roboto Flex', sans-serif;
-    font-weight: 300px;
+    font-family: 'Merienda', cursive;
+    font-weight: 400px;
     margin: auto;
     width: 50%;
 }
