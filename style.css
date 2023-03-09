@@ -20,12 +20,14 @@ body {
     width: 50%;
 }
 
+/* cancel out background once all fonts colors have been adjusted and info switched to bootstrap cards */
 main, header, footer {
     background-color: white;
 }
 
 .center {
     text-align: center;
+    
 }
 .container {
     display: flex;
